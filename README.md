@@ -2,9 +2,6 @@
 
 This project uses a multi-task deep learning model to predict ten different clinical outcomes for pneumonia patients from the MIMIC-IV dataset. The goal is to build a tool that can aid clinicians by providing simultaneous predictions for patient mortality, length of stay, and risk of developing critical conditions like sepsis and acute kidney injury (AKI).
 
-![Knowledge Graph Subgraph](https://i.imgur.com/gY9gL2d.png)
-*A knowledge graph visualization of the relationships between two patients and their various diagnoses and outcomes.*
-
 ---
 
 ## 📋 Table of Contents
